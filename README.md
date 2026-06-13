@@ -7,18 +7,16 @@ A premium, dark-themed React dashboard designed for legal professionals to seaml
 ## 📸 Screenshots of the UI
 
 ### 1. The Dashboard
-![Dashboard View](https://via.placeholder.com/1000x500/0A0D14/FFFFFF?text=Dashboard+Screenshot+Here)
+![Dashboard View](src/assets/dashboard.png)
 *(A sleek, flat dark theme dashboard providing an overview of document analytics, OCR health, and review queues.)*
 
 ### 2. Document Editor & Code Validator
-![Editor & Validator](https://via.placeholder.com/1000x500/0A0D14/FFFFFF?text=Document+Editor+Screenshot+Here)
+![Editor & Validator](src/assets/editor.png)
 *(Built-in text editor with a mock OCR scanner and an autocomplete search bar for validating legal codes like FRC-2024.)*
 
 ### 3. Login Screen
-![Login Screen](https://via.placeholder.com/1000x500/0A0D14/FFFFFF?text=Login+Screen+Screenshot+Here)
+![Login Screen](src/assets/login.png)
 *(A beautifully styled mock login screen with a cohesive dark aesthetic and glowing accents.)*
-
-> **Tip:** You can replace the placeholder image links above with actual screenshots of your running application by saving your screenshots into a `docs/` folder and updating the paths!
 
 ---
 
