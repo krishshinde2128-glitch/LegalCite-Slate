@@ -22,7 +22,7 @@ export function Login({ onLogin }) {
           <div className="p-3 bg-[#121622] rounded-xl border border-[#1e2536] mb-5 shadow-lg">
             <Scale className="text-[#4F46E5] w-8 h-8" />
           </div>
-          <h1 className="text-2xl font-bold text-slate-100 tracking-tight">Lexis Hub</h1>
+          <h1 className="text-2xl font-bold text-slate-100 tracking-tight">LegalCite Slate</h1>
           <p className="text-sm text-slate-400 mt-2 font-medium">Sign in to your workspace</p>
         </div>
 

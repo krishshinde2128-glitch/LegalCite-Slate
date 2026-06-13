@@ -1,8 +1,8 @@
-# ⚖️ Lexis Hub (LegalCite Slate)
+# ⚖️ LegalCite Slate
 
 A premium, dark-themed React dashboard designed for legal professionals to seamlessly organize, OCR-scan, validate, and review legal documents. Built with a focus on modern UI/UX, featuring a custom flat dark aesthetic using Tailwind CSS.
 
-![Lexis Hub Dashboard](public/favicon.svg) <!-- Replace with a screenshot of your dashboard if you'd like! -->
+![LegalCite Slate Dashboard](public/favicon.svg) <!-- Replace with a screenshot of your dashboard if you'd like! -->
 
 ## ✨ Key Features
 

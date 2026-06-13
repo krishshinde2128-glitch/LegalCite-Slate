@@ -18,7 +18,7 @@ export function Sidebar() {
             <Scale className="text-[#4F46E5] w-5 h-5" />
           </div>
           <div>
-            <h1 className="font-bold text-lg tracking-tight text-slate-100">Lexis Hub</h1>
+            <h1 className="font-bold text-lg tracking-tight text-slate-100">LegalCite Slate</h1>
             <p className="text-[10px] text-slate-500 font-semibold tracking-widest uppercase mt-0.5">v2.4.0-beta</p>
           </div>
         </div>
