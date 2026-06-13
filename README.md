@@ -2,7 +2,25 @@
 
 A premium, dark-themed React dashboard designed for legal professionals to seamlessly organize, OCR-scan, validate, and review legal documents. Built with a focus on modern UI/UX, featuring a custom flat dark aesthetic using Tailwind CSS.
 
-![LegalCite Slate Dashboard](public/favicon.svg) <!-- Replace with a screenshot of your dashboard if you'd like! -->
+---
+
+## 📸 Screenshots of the UI
+
+### 1. The Dashboard
+![Dashboard View](https://via.placeholder.com/1000x500/0A0D14/FFFFFF?text=Dashboard+Screenshot+Here)
+*(A sleek, flat dark theme dashboard providing an overview of document analytics, OCR health, and review queues.)*
+
+### 2. Document Editor & Code Validator
+![Editor & Validator](https://via.placeholder.com/1000x500/0A0D14/FFFFFF?text=Document+Editor+Screenshot+Here)
+*(Built-in text editor with a mock OCR scanner and an autocomplete search bar for validating legal codes like FRC-2024.)*
+
+### 3. Login Screen
+![Login Screen](https://via.placeholder.com/1000x500/0A0D14/FFFFFF?text=Login+Screen+Screenshot+Here)
+*(A beautifully styled mock login screen with a cohesive dark aesthetic and glowing accents.)*
+
+> **Tip:** You can replace the placeholder image links above with actual screenshots of your running application by saving your screenshots into a `docs/` folder and updating the paths!
+
+---
 
 ## ✨ Key Features
 
@@ -14,19 +32,23 @@ A premium, dark-themed React dashboard designed for legal professionals to seaml
 - **Premium Dark Mode**: A highly customized, cohesive Tailwind CSS dark theme (`#0A0D14` backgrounds with Indigo/Emerald accents).
 - **Authentication Flow**: Includes a beautifully styled mock login screen.
 
+---
+
 ## 🚀 Tech Stack
 
-- **Frontend Framework**: React (Vite)
-- **Styling**: Tailwind CSS (Custom utility classes like `.ui-panel`, `.btn-primary`, `.input-field`)
-- **Icons**: Lucide React
-- **State Management**: React Context API (`SyncContext`)
+- **Frontend Framework**: React (Vite) for fast, modern component rendering.
+- **Styling**: Tailwind CSS (Custom utility classes like `.ui-panel`, `.btn-primary`, `.input-field`).
+- **Icons**: Lucide React for beautiful, consistent iconography.
+- **State Management**: React Context API (`SyncContext`).
+
+---
 
 ## 📦 Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/legalcite-slate.git
-   cd legalcite-slate
+   git clone https://github.com/krishshinde2128-glitch/LegalCite-Slate.git
+   cd LegalCite-Slate
    ```
 
 2. **Install dependencies:**
@@ -41,3 +63,11 @@ A premium, dark-themed React dashboard designed for legal professionals to seaml
 
 4. **View the app:**
    Open your browser and navigate to `http://localhost:5173`. You can bypass the login screen by typing any text into the email and password fields and clicking "Sign In".
+
+---
+
+## 👨‍💻 Author
+
+**Name**: Krish Shinde  
+**Batch**: Larry Page  
+**Course**: B.Tech CSE  
