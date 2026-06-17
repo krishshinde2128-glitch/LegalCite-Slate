@@ -30,17 +30,17 @@ export function ReviewQueue({ documents, onReview }) {
                 animatingId === doc.id ? "opacity-0 translate-x-8 scale-95" : "opacity-100 translate-x-0 scale-100"
               )}
             >
-              <div className="flex items-center gap-4">
-                <div className="p-2.5 bg-[#1e2536]/50 rounded-lg text-[#4F46E5] border border-[#1e2536]">
+              <div className="flex items-center gap-4 min-w-0">
+                <div className="p-2.5 bg-[#1e2536]/50 rounded-lg text-[#4F46E5] border border-[#1e2536] shrink-0">
                   <FileText className="w-4 h-4" />
                 </div>
-                <div>
-                  <h4 className="text-[13px] font-bold text-slate-200 group-hover:text-slate-100 transition-colors">{doc.name}</h4>
+                <div className="min-w-0">
+                  <h4 className="text-[13px] font-bold text-slate-200 group-hover:text-slate-100 transition-colors truncate">{doc.name}</h4>
                   <p className="text-[11px] text-slate-500 mt-1">{doc.pages} pages • OCR: <span className="font-bold text-slate-400">{doc.clarity}%</span></p>
                 </div>
               </div>
               
-              <div className="flex items-center gap-3">
+              <div className="flex items-center gap-3 shrink-0 ml-4">
                 <button 
                   onClick={() => handleReview(doc.id, 'reject')}
                   className="text-rose-500 hover:text-rose-400 transition-colors hover:scale-110"
